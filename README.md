@@ -2,9 +2,9 @@
 
 > Bu projem, MERN stack (MongoDB, Express.js, React, Node.js) teknolojileri kullanarak geliştirmiş olduğum tam kapsamlı bir **Fiverr (Hizmet ve Yetenek Pazarı)** klonudur. Kullanıcıların hizmet (gig) oluşturabildiği, kategorilere göre filtreleme yapabildiği ve detaylı inceleyebildiği dinamik bir web uygulamasıdır.
 
-<div align="center">
-  <video src="./assets/fiverr-demo.mp4" width="100%" autoplay loop muted playsinline></video>
-</div>
+## 🎥 Proje Gif Önizleme
+
+![Ön İzleme](./assets/fiverr-demo.mp4)
 
 ---
 
