@@ -4,7 +4,13 @@
 
 ## 🎥 Proje Gif Önizleme
 
-![Ön İzleme](./assets/fiverr-demo.mp4)
+
+![Ön İzleme]
+
+
+https://github.com/user-attachments/assets/116693bc-fa14-4027-b1d1-efe81a05a1bc
+
+
 
 ---
 
