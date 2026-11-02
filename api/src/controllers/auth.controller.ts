@@ -11,7 +11,7 @@ const register = catchAsync(
   async (
     req: Request,
     res: Response,
-    next: NewableFunction | NextFunction,
+    next: NextFunction, // DÜZELTİLDİ: NewableFunction kaldırıldı, sadece NextFunction bırakıldı
   ): Promise<void> => {
     if (
       req.body.profilePicture &&
