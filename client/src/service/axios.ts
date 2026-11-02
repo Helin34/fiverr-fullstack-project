@@ -1,8 +1,6 @@
 import axios from "axios";
-import config from "../utils/config";
 
-const api = axios.create({
-  baseURL: config.API_URL,
+export const publicRequest = axios.create({
+  baseURL: import.meta.env.VITE_API_URL, // Örn: https://fiverr-fullstack-project.onrender.com/api
   withCredentials: true,
 });
-export default api;
